@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nursnaaz/DataScience-Webinar-Inceptez-28-06-2020/blob/master/Screenshot%202020-06-28%20at%201.00.14%20AM.png" width="600" title="hover text">
+  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
  
 </p>
 
@@ -60,11 +60,11 @@ $ python app.py
 Open http://localhost:5000 and have fun. :smiley:
 
 <p align="center">
-  <img src="https://github.com/nursnaaz/DataScience-Webinar-Inceptez-28-06-2020/blob/master/Screenshot%202020-06-28%20at%201.00.31%20AM.png" width="600" title="hover text">
+  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/nursnaaz/DataScience-Webinar-Inceptez-28-06-2020/blob/master/Screenshot%202020-06-28%20at%201.00.43%20AM.png" width="600" title="hover text">
+  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
 </p>
 
 ------------------
@@ -100,4 +100,4 @@ Check Siraj's ["How to Deploy a Keras Model to Production"](https://youtu.be/f6B
 
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
 
-# DataScience-Webinar-Inceptez-28-06-2020
+
