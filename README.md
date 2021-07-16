@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
+  <img src="ProjectPage.jpg" width="600" title="hover text">
  
 </p>
 
@@ -59,13 +59,6 @@ $ python app.py
 
 Open http://localhost:5000 and have fun. :smiley:
 
-<p align="center">
-  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
-</p>
-
-<p align="center">
-  <img src="https://github.com/aasha01/CovidPredictionUsingXRay/blob/main/static/covid.jpg" width="600" title="hover text">
-</p>
 
 ------------------
 
@@ -77,7 +70,7 @@ Place your trained `.h5` file saved by `model.save()` under models directory.
 
 ## Deployment
 
-To deploy it for public use, you need to have a public **linux server - Ubuntu**.
+heroku
 
 ### Run the app
 
@@ -96,8 +89,9 @@ More deployment options, check [here](http://flask.pocoo.org/docs/0.12/deploying
 
 ## More resources
 
-Check Siraj's ["How to Deploy a Keras Model to Production"](https://youtu.be/f6Bf3gl4hWY) video. The corresponding [repo](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production).
+Check my blog https://devskrol.com/ for more interesting topics.
 
-[Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+Check my medium page https://aasha01.medium.com/ 
+
 
 
